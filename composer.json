@@ -19,7 +19,8 @@
         "zendframework/zend-db": "^2.8.1",
         "zendframework/zend-mvc-form": "^1.0",
         "zendframework/zend-mvc-console": "^1.1.10",
-        "zendframework/zend-servicemanager-di": "^1.0"
+        "zendframework/zend-servicemanager-di": "^1.0",
+        "doctrine/doctrine-module": "^2.1"
     },
     "autoload": {
         "psr-4": {
